@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 My name is Timothy LU and...
+- 😄 My name is Timothy Lu and...
 - 🌱 I’m currently learning advanced Machine Learning techinques
 - 🔭 I’m currently working on my Springboard Data Science Bootcamp
 - ⚡ Fun fact: I used to be a streamer and greatly enjoy content creation!
