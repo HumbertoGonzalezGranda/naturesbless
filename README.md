@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I used to be a streamer and greatly enjoy content creation!
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/lutimoth?ext=activity)](https://leetcode.com/lutimoth)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/lutimoth)](https://leetcode.com/lutimoth)
 
 <!--
 **naturesbless/naturesbless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
